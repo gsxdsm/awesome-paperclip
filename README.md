@@ -12,7 +12,9 @@
 - [Plugins](#plugins)
 - [Tools & Utilities](#tools--utilities)
 - [Resources](#resources)
+- [Cloud Hosting](#cloud-hosting)
 - [Contributing](#contributing)
+
 
 ---
 
