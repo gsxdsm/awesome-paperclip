@@ -47,6 +47,10 @@ Guides, books, and learning materials about Paperclip.
 
 - [Headcount Zero](https://github.com/AnthonyDavidAdams/zero-employee-company-book) - *Headcount Zero: How to Build an AI-Run Company with Paperclip* — an open-source book.
 
+## Cloud Hosting
+
+- [PaperClipCloud](https://paperclipcloud.com/)
+
 ---
 
 ## Contributing
