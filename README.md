@@ -29,6 +29,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 
 - [paperclip-aperture](https://github.com/tomismeta/paperclip-aperture) - Alternative Focus view for Paperclip that deterministically ranks approvals, issue activity, and other human-facing events into now, next, and ambient.
 - [paperclip-plugin-acp](https://github.com/mvanhorn/paperclip-plugin-acp) - ACP runtime plugin that runs Claude Code, Codex, and Gemini CLI from any chat platform.
+- [paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp) — Trust and reputation layer via Agent Veil Protocol. DID identity, EigenTrust reputation, signed attestations. Adds trust gates before delegation and team reputation evaluation. [npm](https://www.npmjs.com/package/paperclip-plugin-avp)
 - [paperclip-plugin-chat](https://github.com/webprismdevin/paperclip-plugin-chat) - Interactive AI chat copilot for managing tasks, agents, and workspaces.
 - [paperclip-plugin-company-wizard](https://github.com/yesterday-ai/paperclip-plugin-company-wizard) - AI-powered company setup assistant with presets.
 - [paperclip-plugin-discord](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence.
