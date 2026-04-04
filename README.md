@@ -27,7 +27,7 @@ Official repositories and resources from the Paperclip team.
 
 Extensions and integrations that add new capabilities to Paperclip.
 
-- [obsidian-paperclip](https://github.com/istib/obsidian-paperclip) - Obsidian plugin for browsing, commenting on, and assigning Paperclip issues to AI agents without leaving your notes.
+- [obsidian-paperclip](https://github.com/istib/obsidian-paperclip) - Obsidian plugin to browse, comment on, and assign Paperclip issues to AI agents.
 - [paperclip-aperture](https://github.com/tomismeta/paperclip-aperture) - Alternative Focus view for Paperclip that deterministically ranks approvals, issue activity, and other human-facing events into now, next, and ambient.
 - [paperclip-plugin-acp](https://github.com/mvanhorn/paperclip-plugin-acp) - ACP runtime plugin that runs Claude Code, Codex, and Gemini CLI from any chat platform.
 - [paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp) — Trust and reputation layer via Agent Veil Protocol. DID identity, EigenTrust reputation, signed attestations. Adds trust gates before delegation and team reputation evaluation. [npm](https://www.npmjs.com/package/paperclip-plugin-avp)
