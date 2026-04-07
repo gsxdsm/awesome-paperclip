@@ -27,6 +27,7 @@ Official repositories and resources from the Paperclip team.
 
 Extensions and integrations that add new capabilities to Paperclip.
 
+- [obsidian-paperclip](https://github.com/istib/obsidian-paperclip) - Obsidian plugin to browse, comment on, and assign Paperclip issues to AI agents.
 - [paperclip-aperture](https://github.com/tomismeta/paperclip-aperture) - Alternative Focus view for Paperclip that deterministically ranks approvals, issue activity, and other human-facing events into now, next, and ambient.
 - [paperclip-live-analytics-plugin](https://github.com/Agent-Analytics/paperclip-live-analytics-plugin) - Live visitor map, dashboard widget, and settings page for viewing Agent Analytics inside Paperclip.
 - [paperclip-plugin-acp](https://github.com/mvanhorn/paperclip-plugin-acp) - ACP runtime plugin that runs Claude Code, Codex, and Gemini CLI from any chat platform.
