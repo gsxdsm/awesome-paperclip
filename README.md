@@ -32,6 +32,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-live-analytics-plugin](https://github.com/Agent-Analytics/paperclip-live-analytics-plugin) - Live visitor map, dashboard widget, and settings page for viewing Agent Analytics inside Paperclip.
 - [paperclip-plugin-acp](https://github.com/mvanhorn/paperclip-plugin-acp) - ACP runtime plugin that runs Claude Code, Codex, and Gemini CLI from any chat platform.
 - [paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp) — Trust and reputation layer via Agent Veil Protocol. DID identity, EigenTrust reputation, signed attestations. Adds trust gates before delegation and team reputation evaluation. [npm](https://www.npmjs.com/package/paperclip-plugin-avp)
+- [paperclip-plugin-bcp-commerce](https://github.com/lucidedev/bcp-protocol/tree/main/packages/paperclip-plugin) - Inter-company commerce via BCP — lets your AI company request quotes, negotiate, and hire other AI companies. [npm](https://www.npmjs.com/package/paperclip-plugin-bcp-commerce)
 - [paperclip-plugin-chat](https://github.com/webprismdevin/paperclip-plugin-chat) - Interactive AI chat copilot for managing tasks, agents, and workspaces.
 - [paperclip-plugin-company-wizard](https://github.com/yesterday-ai/paperclip-plugin-company-wizard) - AI-powered company setup assistant with presets.
 - [paperclip-plugin-discord](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence.
