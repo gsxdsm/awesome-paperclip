@@ -40,7 +40,8 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-plugin-telegram](https://github.com/mvanhorn/paperclip-plugin-telegram) - Telegram notifications plugin — posts to Telegram when issues are created, completed, or need approval.
 - [paperclip-plugin-writbase](https://github.com/Writbase/paperclip-plugin-writbase) - Bidirectional sync between Paperclip issues and WritBase tasks with webhook-driven updates and periodic reconciliation.
 - [paperclip-plugin-hindsight](https://github.com/vectorize-io/hindsight/tree/main/hindsight-integrations/paperclip-plugin) - Persistent long-term memory for Paperclip agents — recall before every heartbeat, retain after every run. [npm](https://www.npmjs.com/package/paperclip-plugin-hindsight)
-
+- [paperclip-plugin-honcho](https://github.com/plastic-labs/paperclip-honcho) - Memory plugin give your companies statefulness and reasons through your memories with in-built dreaming. Recall any fact from any time. [npm](https://www.npmjs.com/package/@honcho-ai/paperclip-honcho)
+  
 ## Tools & Utilities
 
 Bots, bundles, and helper tools for the Paperclip ecosystem.
