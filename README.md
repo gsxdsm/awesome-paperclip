@@ -36,10 +36,10 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-plugin-company-wizard](https://github.com/yesterday-ai/paperclip-plugin-company-wizard) - AI-powered company setup assistant with presets.
 - [paperclip-plugin-discord](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence.
 - [paperclip-plugin-github-issues](https://github.com/mvanhorn/paperclip-plugin-github-issues) - Bidirectional GitHub Issues sync for Paperclip.
+- [paperclip-plugin-hindsight](https://github.com/vectorize-io/hindsight/tree/main/hindsight-integrations/paperclip-plugin) - Persistent long-term memory for Paperclip agents — recall before every heartbeat, retain after every run. [npm](https://www.npmjs.com/package/paperclip-plugin-hindsight)
 - [paperclip-plugin-slack](https://github.com/mvanhorn/paperclip-plugin-slack) - Slack notifications plugin — posts to Slack when issues are created, completed, or need approval.
 - [paperclip-plugin-telegram](https://github.com/mvanhorn/paperclip-plugin-telegram) - Telegram notifications plugin — posts to Telegram when issues are created, completed, or need approval.
 - [paperclip-plugin-writbase](https://github.com/Writbase/paperclip-plugin-writbase) - Bidirectional sync between Paperclip issues and WritBase tasks with webhook-driven updates and periodic reconciliation.
-- [paperclip-plugin-hindsight](https://github.com/vectorize-io/hindsight/tree/main/hindsight-integrations/paperclip-plugin) - Persistent long-term memory for Paperclip agents — recall before every heartbeat, retain after every run. [npm](https://www.npmjs.com/package/paperclip-plugin-hindsight)
 - [raycast-paperclipai](https://github.com/istib/raycast-paperclipai) - Raycast extension to search, filter, and create Paperclip issues.
 
 ## Tools & Utilities
