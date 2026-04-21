@@ -46,6 +46,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 Bots, bundles, and helper tools for the Paperclip ecosystem.
 
 - [oh-my-paperclip](https://github.com/gsxdsm/oh-my-paperclip) - The go-to bundle of Paperclip plugins.
+- [paperclip-company-generator](https://github.com/absolutegravitas/paperclip-company-generator) - Generates ready-to-use Paperclip company configs from a business description.
 - [paperclip-discord-bot](https://github.com/rekon307/paperclip-discord-bot) - Discord bot for the Paperclip community — GitHub OAuth contributor roles and daily AI summaries.
 - [paperclip-mcp](https://github.com/wizarck/paperclip-mcp) - MCP server that exposes the Paperclip REST API as tools for Claude Code and Claude Desktop.
 
