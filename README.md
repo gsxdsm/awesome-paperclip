@@ -40,6 +40,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-plugin-linear](https://github.com/Oldharlem/paperclip-linear-plugin) - Bidirectional Linear sync for Paperclip — issue sync, comments, status mirroring, webhooks, and an agent tool. [npm](https://www.npmjs.com/package/@oldharlem/paperclip-plugin-linear)
 - [paperclip-plugin-slack](https://github.com/mvanhorn/paperclip-plugin-slack) - Slack notifications plugin — posts to Slack when issues are created, completed, or need approval.
 - [paperclip-plugin-telegram](https://github.com/mvanhorn/paperclip-plugin-telegram) - Telegram notifications plugin — posts to Telegram when issues are created, completed, or need approval.
+- [paperclip-plugin-trello-2way-sync](https://github.com/Wizarck/paperclip-plugin-trello-2way-sync) - Two-way sync between Paperclip issues and Trello cards with configurable list mapping, priority labels, and feature toggles.
 - [paperclip-plugin-writbase](https://github.com/Writbase/paperclip-plugin-writbase) - Bidirectional sync between Paperclip issues and WritBase tasks with webhook-driven updates and periodic reconciliation.
 - [paperclip-plugin-hindsight](https://github.com/vectorize-io/hindsight/tree/main/hindsight-integrations/paperclip-plugin) - Persistent long-term memory for Paperclip agents — recall before every heartbeat, retain after every run. [npm](https://www.npmjs.com/package/paperclip-plugin-hindsight)
 
