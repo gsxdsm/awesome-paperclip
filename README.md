@@ -30,6 +30,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [Agent Pixels](https://github.com/gcampton/Agent-Pixels) - Pixel Agents for Paperclip (adapted from VS Code) with custom behaviors (idling, researching, coding), 70+ models, more rooms, and security cam access.
 - [obsidian-paperclip](https://github.com/istib/obsidian-paperclip) - Obsidian plugin to browse, comment on, and assign Paperclip issues to AI agents.
 - [paperclip-aperture](https://github.com/tomismeta/paperclip-aperture) - Alternative Focus view for Paperclip that deterministically ranks approvals, issue activity, and other human-facing events into now, next, and ambient.
+- [paperclip-agent-scrum](https://github.com/Schapat/paperclip-agent-scrum-plugin) - A Paperclip Scrum-Event plugin that orchestrates six AI agents as a development team.
 - [paperclip-live-analytics-plugin](https://github.com/Agent-Analytics/paperclip-live-analytics-plugin) - Live visitor map, dashboard widget, and settings page for viewing Agent Analytics inside Paperclip.
 - [paperclip-plugin-acp](https://github.com/mvanhorn/paperclip-plugin-acp) - ACP runtime plugin that runs Claude Code, Codex, and Gemini CLI from any chat platform.
 - [paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp) — Trust and reputation layer via Agent Veil Protocol. DID identity, EigenTrust reputation, signed attestations. Adds trust gates before delegation and team reputation evaluation. [npm](https://www.npmjs.com/package/paperclip-plugin-avp)
