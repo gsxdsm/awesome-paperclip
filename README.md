@@ -50,6 +50,7 @@ Bots, bundles, and helper tools for the Paperclip ecosystem.
 - [oh-my-paperclip](https://github.com/gsxdsm/oh-my-paperclip) - The go-to bundle of Paperclip plugins.
 - [paperclip-discord-bot](https://github.com/rekon307/paperclip-discord-bot) - Discord bot for the Paperclip community — GitHub OAuth contributor roles and daily AI summaries.
 - [paperclip-mcp](https://github.com/wizarck/paperclip-mcp) - MCP server that exposes the Paperclip REST API as tools for Claude Code and Claude Desktop.
+- [GSC — Git Security Checker](https://github.com/poliakarmai/gsc) - SAST as a Paperclip security agent: connect the GSC MCP server (`scan_repo`/`list_findings`/`verify_finding`/`get_finding`/`list_detectors`) through the MCP Tool Gateway (`local_stdio` or `mcp_remote`) and hire any agent (Claude Code, Codex, Hermes) as a Security Engineer. Ships a `gsc-security-review` skill.
 
 ## Resources
 
