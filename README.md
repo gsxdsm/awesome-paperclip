@@ -36,6 +36,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-plugin-chat](https://github.com/webprismdevin/paperclip-plugin-chat) - Interactive AI chat copilot for managing tasks, agents, and workspaces.
 - [paperclip-plugin-company-wizard](https://github.com/yesterday-ai/paperclip-plugin-company-wizard) - AI-powered company setup assistant with presets.
 - [paperclip-plugin-discord](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence.
+- [paperclip-plugin-docs](https://github.com/xzamiska/paperclip-plugin-docs) - Read-only Docs tab that renders a project's README and Markdown docs as a navigable tree, with a git mirror for repo-only workspaces and agent read tools. [npm](https://www.npmjs.com/package/@zaso/paperclip-plugin-docs)
 - [paperclip-plugin-github-issues](https://github.com/mvanhorn/paperclip-plugin-github-issues) - Bidirectional GitHub Issues sync for Paperclip.
 - [paperclip-plugin-linear](https://github.com/Oldharlem/paperclip-linear-plugin) - Bidirectional Linear sync for Paperclip — issue sync, comments, status mirroring, webhooks, and an agent tool. [npm](https://www.npmjs.com/package/@oldharlem/paperclip-plugin-linear)
 - [paperclip-plugin-slack](https://github.com/mvanhorn/paperclip-plugin-slack) - Slack notifications plugin — posts to Slack when issues are created, completed, or need approval.
