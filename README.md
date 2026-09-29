@@ -28,6 +28,7 @@ Official repositories and resources from the Paperclip team.
 Extensions and integrations that add new capabilities to Paperclip.
 
 - [Agent Pixels](https://github.com/gcampton/Agent-Pixels) - Pixel Agents for Paperclip (adapted from VS Code) with custom behaviors (idling, researching, coding), 70+ models, more rooms, and security cam access.
+- [Cubicle](https://github.com/caglarutkuguler/cubicle) - Live office for your agents, as a Paperclip plugin (sidebar page and dashboard widget) or a standalone page: they type at their desks and raise a hand when they need you, in pixel art or HD themes. Read-only, zero dependencies. [npm](https://www.npmjs.com/package/@caglarutkuguler/cubicle)
 - [obsidian-paperclip](https://github.com/istib/obsidian-paperclip) - Obsidian plugin to browse, comment on, and assign Paperclip issues to AI agents.
 - [paperclip-aperture](https://github.com/tomismeta/paperclip-aperture) - Alternative Focus view for Paperclip that deterministically ranks approvals, issue activity, and other human-facing events into now, next, and ambient.
 - [paperclip-live-analytics-plugin](https://github.com/Agent-Analytics/paperclip-live-analytics-plugin) - Live visitor map, dashboard widget, and settings page for viewing Agent Analytics inside Paperclip.
@@ -47,7 +48,6 @@ Extensions and integrations that add new capabilities to Paperclip.
 
 Bots, bundles, and helper tools for the Paperclip ecosystem.
 
-- [Cubicle](https://github.com/caglarutkuguler/cubicle) - Live pixel-art office that shows your agents at their desks while they work, read-only and with zero dependencies.
 - [oh-my-paperclip](https://github.com/gsxdsm/oh-my-paperclip) - The go-to bundle of Paperclip plugins.
 - [paperclip-discord-bot](https://github.com/rekon307/paperclip-discord-bot) - Discord bot for the Paperclip community — GitHub OAuth contributor roles and daily AI summaries.
 - [paperclip-mcp](https://github.com/wizarck/paperclip-mcp) - MCP server that exposes the Paperclip REST API as tools for Claude Code and Claude Desktop.
