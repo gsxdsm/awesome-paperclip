@@ -42,6 +42,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-plugin-telegram](https://github.com/mvanhorn/paperclip-plugin-telegram) - Telegram notifications plugin — posts to Telegram when issues are created, completed, or need approval.
 - [paperclip-plugin-writbase](https://github.com/Writbase/paperclip-plugin-writbase) - Bidirectional sync between Paperclip issues and WritBase tasks with webhook-driven updates and periodic reconciliation.
 - [paperclip-plugin-hindsight](https://github.com/vectorize-io/hindsight/tree/main/hindsight-integrations/paperclip-plugin) - Persistent long-term memory for Paperclip agents — recall before every heartbeat, retain after every run. [npm](https://www.npmjs.com/package/paperclip-plugin-hindsight)
+- [foldcrumbs](https://github.com/vcnngr/foldcrumbs) - Local-first memory provider bridge for Paperclip agents — file-per-memory markdown stores, no cloud, no API key, company/agent/project-scoped with verified tenant isolation.
 
 ## Tools & Utilities
 
