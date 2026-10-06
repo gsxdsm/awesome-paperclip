@@ -50,6 +50,8 @@ Bots, bundles, and helper tools for the Paperclip ecosystem.
 - [oh-my-paperclip](https://github.com/gsxdsm/oh-my-paperclip) - The go-to bundle of Paperclip plugins.
 - [paperclip-discord-bot](https://github.com/rekon307/paperclip-discord-bot) - Discord bot for the Paperclip community — GitHub OAuth contributor roles and daily AI summaries.
 - [paperclip-mcp](https://github.com/wizarck/paperclip-mcp) - MCP server that exposes the Paperclip REST API as tools for Claude Code and Claude Desktop.
+- [paperclip-telegram](https://github.com/iosayin/paperclip-telegram) - Answer approval and multi-question cards from Telegram with inline buttons; answers are written back so agents continue. Standalone service, no inbound port, survives reboots.
+- [paperclip-watchdog](https://github.com/iosayin/paperclip-watchdog) - Finds stuck agent tasks and gets them moving again (answered cards, finished dependencies, CI results, conflicting PRs, broken sessions). No model calls, `--dry-run` mode.
 
 ## Resources
 
