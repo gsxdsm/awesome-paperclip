@@ -38,6 +38,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-plugin-discord](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence.
 - [paperclip-plugin-github-issues](https://github.com/mvanhorn/paperclip-plugin-github-issues) - Bidirectional GitHub Issues sync for Paperclip.
 - [paperclip-plugin-linear](https://github.com/Oldharlem/paperclip-linear-plugin) - Bidirectional Linear sync for Paperclip — issue sync, comments, status mirroring, webhooks, and an agent tool. [npm](https://www.npmjs.com/package/@oldharlem/paperclip-plugin-linear)
+- [paperclip-plugin-org-accent](https://github.com/TrasteCC/paperclip-plugin-org-accent) - Gives each company its own accent color across the top bar, sidebar, background, and mobile navigation, so organizations are hard to confuse.
 - [paperclip-plugin-slack](https://github.com/mvanhorn/paperclip-plugin-slack) - Slack notifications plugin — posts to Slack when issues are created, completed, or need approval.
 - [paperclip-plugin-telegram](https://github.com/mvanhorn/paperclip-plugin-telegram) - Telegram notifications plugin — posts to Telegram when issues are created, completed, or need approval.
 - [paperclip-plugin-writbase](https://github.com/Writbase/paperclip-plugin-writbase) - Bidirectional sync between Paperclip issues and WritBase tasks with webhook-driven updates and periodic reconciliation.
