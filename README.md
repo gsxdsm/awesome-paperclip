@@ -56,6 +56,7 @@ Bots, bundles, and helper tools for the Paperclip ecosystem.
 Guides, books, and learning materials about Paperclip.
 
 - [Headcount Zero](https://github.com/AnthonyDavidAdams/zero-employee-company-book) - *Headcount Zero: How to Build an AI-Run Company with Paperclip* — an open-source book.
+- [Paperclip API Cheatsheet](https://github.com/aleph-scm/paperclip-api-cheatsheet) - Agent-facing routes, auth schemes and spec pitfalls, generated from a live OpenAPI spec.
 - [Paperclip Troubleshooting Guide](https://github.com/paperclipai/paperclip/blob/main/docs/guides/troubleshooting.md) - Common issues, FAQs, and solutions for Paperclip.
 
 ---
