@@ -47,6 +47,8 @@ Extensions and integrations that add new capabilities to Paperclip.
 
 Bots, bundles, and helper tools for the Paperclip ecosystem.
 
+- [agent-jail](https://github.com/apravint/agent-jail) - Rootless Bubblewrap sandbox and human-in-the-loop security firewall for sandboxing agent runner workspaces.
+- [lazy-agentd](https://github.com/apravint/lazy-agentd) - Zero-idle-RAM systemd socket activation and auto-hibernation engine for local background daemons and webhook listeners.
 - [oh-my-paperclip](https://github.com/gsxdsm/oh-my-paperclip) - The go-to bundle of Paperclip plugins.
 - [paperclip-discord-bot](https://github.com/rekon307/paperclip-discord-bot) - Discord bot for the Paperclip community — GitHub OAuth contributor roles and daily AI summaries.
 - [paperclip-mcp](https://github.com/wizarck/paperclip-mcp) - MCP server that exposes the Paperclip REST API as tools for Claude Code and Claude Desktop.
