@@ -35,6 +35,7 @@ Extensions and integrations that add new capabilities to Paperclip.
 - [paperclip-plugin-avp](https://github.com/creatorrmode-lead/paperclip-plugin-avp) — Trust and reputation layer via Agent Veil Protocol. DID identity, EigenTrust reputation, signed attestations. Adds trust gates before delegation and team reputation evaluation. [npm](https://www.npmjs.com/package/paperclip-plugin-avp)
 - [paperclip-plugin-chat](https://github.com/webprismdevin/paperclip-plugin-chat) - Interactive AI chat copilot for managing tasks, agents, and workspaces.
 - [paperclip-plugin-company-wizard](https://github.com/yesterday-ai/paperclip-plugin-company-wizard) - AI-powered company setup assistant with presets.
+- [paperclip-plugin-crashdesk](https://github.com/ozgurlg/paperclip-plugin-crashdesk) - Error tracking with Sentry: see errors in Paperclip, hand them to agents as tasks, and resolve them when the task is done.
 - [paperclip-plugin-discord](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence.
 - [paperclip-plugin-github-issues](https://github.com/mvanhorn/paperclip-plugin-github-issues) - Bidirectional GitHub Issues sync for Paperclip.
 - [paperclip-plugin-linear](https://github.com/Oldharlem/paperclip-linear-plugin) - Bidirectional Linear sync for Paperclip — issue sync, comments, status mirroring, webhooks, and an agent tool. [npm](https://www.npmjs.com/package/@oldharlem/paperclip-plugin-linear)
